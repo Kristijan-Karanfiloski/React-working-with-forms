@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kikaccc29.github.io/React-working-with-forms/static/css/main.5e078b5a.css",
+    "main.js": "/kikaccc29.github.io/React-working-with-forms/static/js/main.c8217400.js",
+    "index.html": "/kikaccc29.github.io/React-working-with-forms/index.html",
+    "main.5e078b5a.css.map": "/kikaccc29.github.io/React-working-with-forms/static/css/main.5e078b5a.css.map",
+    "main.c8217400.js.map": "/kikaccc29.github.io/React-working-with-forms/static/js/main.c8217400.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e078b5a.css",
+    "static/js/main.c8217400.js"
+  ]
+}
